@@ -1,0 +1,12 @@
+com\dbs\customerservice\responsewrapper\DBS_ResponseWarapperVO.class
+com\dbs\customerservice\serviceImpl\DBS_OrderItemsServiceImpl.class
+com\dbs\customerservice\dao\DBS_OrderItemsDAO.class
+com\dbs\customerservice\service\DBS_OrdersService.class
+com\dbs\customerservice\feign\client\OrderItemsClient.class
+com\dbs\customerservice\service\DBS_OrdersItemsService.class
+com\dbs\customerservice\serviceImpl\DBS_OrderServiceImpl.class
+com\dbs\customerservice\dao\DBS_OrdersDAO.class
+com\dbs\customerservice\controller\CustomerController.class
+com\dbs\customerservice\feign\config\CustomFeignConfig.class
+com\dbs\customerservice\feign\config\ResponseDecoder.class
+com\dbs\customerservice\CustomerServiceApplication.class

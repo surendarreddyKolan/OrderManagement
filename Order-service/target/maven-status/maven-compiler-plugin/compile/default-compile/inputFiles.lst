@@ -1,0 +1,12 @@
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\feign\client\OrderItemsClient.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\service\DBS_OrdersItemsService.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\serviceImpl\DBS_OrderItemsServiceImpl.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\dao\DBS_OrderItemsDAO.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\dao\DBS_OrdersDAO.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\CustomerServiceApplication.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\feign\config\ResponseDecoder.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\responsewrapper\DBS_ResponseWarapperVO.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\service\DBS_OrdersService.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\feign\config\CustomFeignConfig.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\controller\CustomerController.java
+E:\Suri\Sample Project\Code\DBS1_Task\Order-OrderItems\Order-service\src\main\java\com\dbs\customerservice\serviceImpl\DBS_OrderServiceImpl.java
